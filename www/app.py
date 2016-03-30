@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # _*_ coding:utf-8 _*_
 
-__author__='Neal Liu'
+__author__='liuxsde'
 
 import logging;logging.basicConfig(level=logging.INFO)
 import asyncio,os,json,time
